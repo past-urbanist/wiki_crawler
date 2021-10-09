@@ -1,0 +1,24 @@
+[
+  {
+    "city_name": "Samsami",
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Iran_location_map.svg/250px-Iran_location_map.svg.png",
+    "lat": 32.16694,
+    "lng": 50.27361,
+    "brief": "",
+    "utc": 3,
+    "nation": "Iran",
+    "area": null,
+    "pop": 1203
+  },
+  {
+    "city_name": "Bad_Rodach",
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Bad-Rodach.jpg/250px-Rathaus-Bad-Rodach.jpg",
+    "lat": 50.333,
+    "lng": 10.783,
+    "brief": "Bad Rodach is in Upper Franconia, in the District of Coburg approximately 17\u00a0km northwest of Coburg.  It is situated between the Lange Berge hills and Gleichberge mountains. The river Rodach crosses through the town.",
+    "utc": 1,
+    "nation": "Germany",
+    "area": 77.0,
+    "pop": 6418
+  }
+]
